@@ -1,0 +1,113 @@
+body{
+    background-color: #222430;
+}
+
+h1 {
+    text-align: left;
+    font-size: 35px;
+    color: white;
+    font-style: normal;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+p{
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222430;
+}
+
+ul #horizontal {
+    display: inline;
+}
+
+li {
+    
+    display: inline;
+}
+  
+li a {
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111111;
+}
+
+th {
+    color: white;
+    text-decoration: none;
+    border: 1px solid #222430;
+    
+}
+
+th a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    
+}
+
+#left {
+    text-align: right;
+    
+}
+
+#right{
+    text-align: left;
+}
+
+.productname
+{
+    text-align: center;   
+    color: white; 
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#appss
+{
+    height: 90%;
+}
+
+#jotaro
+{
+    height: 70%;
+}
+
+#snipeVR
+{
+    height: 70%;
+}
+
+#dndvr
+{
+    height: 70%;
+}
+
+#intro
+{
+    float: right;
+}
+
+#me
+{
+    float:left;
+    margin-right: 15px;
+}
+
+#linktable
+{
+    width: 70%;
+}
